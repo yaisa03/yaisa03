@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**yaisa03/yaisa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola 👋, my name is Yaisa
+#### Soy Front-End Web Developer jr.
+![Soy Front-End Web Developer jr.](https://media-exp2.licdn.com/dms/image/C4E16AQEReK9g_Jwwgw/profile-displaybackgroundimage-shrink_200_800/0/1654526687002?e=1660780800&v=beta&t=gTPt8w7xM27_yBY5rhvYznswbUqOjEsf9eGmDdRpQ3s)
 
-Here are some ideas to get you started:
+me encanta aprender sobre nuevas tecnologías, dispositivos biomédicos y herramientas de programación para investigadores. Estoy aprendiendo React js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: REACT / JS / HTML / CSS / Bootstrap / NodeJs / Figma
+
+- 🔭 Estoy trabajando en this page. 
+- 🌱 Estoy aprendiendo REACT 
+- 😄 Pronombres: ella she/her 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yaisa03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yaisa-arteaga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lovely_yaisa/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yaisa03&show_icons=true)  
+
