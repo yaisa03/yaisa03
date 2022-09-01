@@ -1,5 +1,5 @@
 
-![Soy Front-End Web Developer jr.](https://media-exp2.licdn.com/dms/image/C4E16AQEReK9g_Jwwgw/profile-displaybackgroundimage-shrink_200_800/0/1654526687002?e=1660780800&v=beta&t=gTPt8w7xM27_yBY5rhvYznswbUqOjEsf9eGmDdRpQ3s)
+![Soy Front-End Web Developer jr.](https://media-exp1.licdn.com/dms/image/C4E16AQEReK9g_Jwwgw/profile-displaybackgroundimage-shrink_350_1400/0/1654526687002?e=1667433600&v=beta&t=8DJw9Qwvnpe-Esm9IS5tdy9PpbGV9EWJIvGRtcnQkdE)
 
 Me encanta aprender sobre nuevas tecnologías, dispositivos biomédicos y herramientas de programación para investigadores. 
 
