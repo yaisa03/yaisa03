@@ -1,7 +1,5 @@
 
-![Soy Front-End Web Developer jr.](https://media-exp1.licdn.com/dms/image/C4E16AQEReK9g_Jwwgw/profile-displaybackgroundimage-shrink_350_1400/0/1654526687002?e=1667433600&v=beta&t=8DJw9Qwvnpe-Esm9IS5tdy9PpbGV9EWJIvGRtcnQkdE)
-
-Me encanta aprender sobre nuevas tecnologías, dispositivos biomédicos y herramientas de programación para investigadores. 
+Hola! Mi nombre es Yaisa, soy Soy Front-End Web Developer jr. y me encanta aprender sobre nuevas tecnologías, dispositivos biomédicos y herramientas de programación para investigadores. 
 
 - Estoy aprendiendo React js.
 - Soy amante de todo lo dulce y me encanta la reposteria.
